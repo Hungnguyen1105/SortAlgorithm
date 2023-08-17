@@ -10,8 +10,7 @@ public class StableSorting {
             /*Bắt đầu vòng lặp i-loop để lặp qua mảng.
             Đây là vòng lặp bên ngoài (i-loop) để duyệt qua từng phần tử của mảng và đảm bảo rằng
             phần tử lớn nhất "bơi" lên vị trí cuối cùng sau mỗi lần lặp
-            n là độ dài của mảng / i là biến đếm cho vòng lặp. Vòng lặp này chạy từ 0 đến n - 1 để đảm bảo tất cả các phần tử được xem xét.
-
+            n là độ dài của mảng / i là biến đếm cho vòng lặp. Vòng lặp này chạy từ 0 đến n - 1 để đảm bảo tất cả các phần tử được xem xét code
              */
             for (int j = 0 ; j< n-i-1; j++){
 
