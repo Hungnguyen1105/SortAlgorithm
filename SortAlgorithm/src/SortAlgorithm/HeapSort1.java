@@ -81,5 +81,6 @@ public class HeapSort1 {
 
         System.out.println("Mang sau khi sap xep");
         printArray(arr);
+
     }
 }
